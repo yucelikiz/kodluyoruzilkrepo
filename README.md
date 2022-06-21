@@ -4,16 +4,16 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ![Proje Görseli](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
-#Installation
+# Installation
 --------------------------------
 Öncelikle projeyi klonlayın 
 
-``
-https://github.com/yucelikiz/kodluyoruzilkrepo
-``
+```
+git clone https://github.com/yucelikiz/kodluyoruzilkrepo
+```
 
 
-#Usage
+# Usage
 --------------------------------
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
@@ -24,3 +24,11 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
+
+# Contrubuting
+------------------------------
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# Licence
+--------------------------------
+[MIT](https://choosealicense.com/licenses/mit/)
